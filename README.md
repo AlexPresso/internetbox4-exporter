@@ -1,4 +1,4 @@
-# internetbox2-exporter
+# [WIP] internetbox4-exporter [WIP]
 
 A Prometheus exporter to read metrics from a Swisscom Internet-Box 2 router.
 
